@@ -15,6 +15,9 @@ class QuestionRequest(BaseModel):
 def ping():
     return {"message": "API is alive 🚀"}
 
+@app.get("/")
+def home():
+    return {"message": "Welcome to the TDS Virtual TA API. Use POST /ask to ask questions."}
 
 @app.post("/ask")
 def ask_question(payload: QuestionRequest):
