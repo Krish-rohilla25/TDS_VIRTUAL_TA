@@ -1,0 +1,303 @@
+[
+  {
+    "topic_title": "Which subject to choose in jan term",
+    "post_number": 1,
+    "username": "21f3000745",
+    "created_at": "2025-01-01T16:04:48.996Z",
+    "cooked": "Hii all\u2026i know this may not be the correct platform to ask this question.\nActually i have 3 diploma subjects to cover - MLP, JAVA, TDS. So which 2 subject should i choose for this term?"
+  },
+  {
+    "topic_title": "Which subject to choose in jan term",
+    "post_number": 2,
+    "username": "22f3002293",
+    "created_at": "2025-01-01T16:49:57.552Z",
+    "cooked": "Don\u2019t take TDS, this subject should be taken in the end else you might have some problem"
+  },
+  {
+    "topic_title": "Which subject to choose in jan term",
+    "post_number": 3,
+    "username": "carlton",
+    "created_at": "2025-01-02T03:23:20.202Z",
+    "cooked": "TDS at the end best. Gives you the best chance of doing well in it.\nKind regards"
+  },
+  {
+    "topic_title": "Which subject to choose in jan term",
+    "post_number": 4,
+    "username": "Adityach1",
+    "created_at": "2025-01-06T14:17:03.518Z",
+    "cooked": "Yes you should do tds after mlp only it really help you alot trust me"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 1,
+    "username": "s.anand",
+    "created_at": "2025-01-14T13:00:03.324Z",
+    "cooked": "Please post any questions related to Graded Assignment 3 - Large Language Models.\n\nImportant Instruction\nPlease use markdown code formatting (fenced code blocks) when sharing code in Discourse posts. This makes the code much easier to read and differentiate from non-code text. It also makes it easier for people to copy code snippets and run it themselves. See below code for example\nping exam.sanand.workers.dev\n\nPinging exam.sanand.workers.dev [104.21.31.149] with 32 bytes of data:\nReply from 104.21.31.149: bytes=32 time=9ms TTL=58\nReply from 104.21.31.149: bytes=32 time=8ms TTL=58\nReply from 104.21.31.149: bytes=32 time=8ms TTL=58\nReply from 104.21.31.149: bytes=32 time=9ms TTL=58\n\nPing statistics for 104.21.31.149:\n    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),\nApproximate round trip times in milli-seconds:\n    Minimum = 8ms, Maximum = 9ms, Average = 8ms\n\nVisit this link for more details: Extended Syntax | Markdown Guide.\nA friendly suggestion: kindly go through Discourse Docs! \n\nDeadline: Sunday, February 2, 2025 6:29 PM\n@carlton @Jivraj @Saransh_Saini"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 2,
+    "username": "s.anand",
+    "created_at": "2025-01-14T13:06:47.583Z",
+    "cooked": ""
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 3,
+    "username": "nilaychugh",
+    "created_at": "2025-01-15T12:20:05.475Z",
+    "cooked": "how to get the dummy API key?"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 4,
+    "username": "Jivraj",
+    "created_at": "2025-01-15T14:59:06.607Z",
+    "cooked": "Hi Nilay,\nIn order to make a api call to openai chat completions you are required to send authentication information(openai key) in headers. For first question of GA3 you don\u2019t have to send actual(working) api key, any dummy api key would work(you can put your name, or tds anything works)\nkind regards"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 6,
+    "username": "nilaychugh",
+    "created_at": "2025-01-18T04:43:01.431Z",
+    "cooked": "which API should i use in 7th question"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 7,
+    "username": "22f3001315",
+    "created_at": "2025-01-19T07:36:55.428Z",
+    "cooked": "need help in question 4th. how can i correct this json body? sir  @Jivraj\n{\n  \"model\": \"gpt-4o-mini\",\n  \"messages\": [\n    {\n      \"role\": \"user\",\n      \"content\": \"Extract text from this image.\"\n    },\n    {\n      \"role\": \"user\",\n      \"content\": {\n        \"image_url\": \"data:image/png;base64,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\"\n      }\n    }\n  ]\n}\n\n\nerror:The JSON body must have 1 message\n{\n  \"model\": \"gpt-4o-mini\",\n  \"messages\": [\n    {\n      \"role\": \"user\",\n      \"content\": {\n        \"text\": \"Extract text from this image.\",\n        \"image_url\": \"data:image/png;base64,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\"\n      }\n    }\n  ]\n}\n\n\nError: The message must have a 2 content parts"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 8,
+    "username": "22f3001315",
+    "created_at": "2025-01-19T16:53:34.970Z",
+    "cooked": "@Jivraj @carlton  sir plz see it once."
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 9,
+    "username": "Jivraj",
+    "created_at": "2025-01-21T07:02:52.278Z",
+    "cooked": "Hi @22f3001315 ,\nYou are almost correct, there are very minor changes that needs to be made.\nTake help from Chat GPT or use this documentation which have correct json body Vision - OpenAI API.\nKind regards\nJivraj"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 10,
+    "username": "22f3001315",
+    "created_at": "2025-01-21T08:21:45.804Z",
+    "cooked": "it worked thanks sir"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 12,
+    "username": "22f3002034",
+    "created_at": "2025-01-21T11:25:57.882Z",
+    "cooked": "Are we supposed to buy open ai api key ?"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 13,
+    "username": "23f2000237",
+    "created_at": "2025-01-21T12:01:17.870Z",
+    "cooked": "No, if you scroll down to the last question, we can get our Ai Proxy key"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 14,
+    "username": "carlton",
+    "created_at": "2025-01-21T12:06:09.235Z",
+    "cooked": "@nilaychugh @22f3002034\nThe API key is available at https://aiproxy.sanand.workers.dev/\nThe instructions on how to use the token is given at GitHub - sanand0/aiproxy: Authorizing proxy for LLMs\nYou cannot use this token directly with Open AI or any other gpt. These are only valid via the API exposed by the above instructions.\nYou get a limit of $1. Use with care.\nKind regards"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 15,
+    "username": "nilaychugh",
+    "created_at": "2025-01-21T14:30:30.322Z",
+    "cooked": "but the embedding model that is said to be used is text embedding 3 small, which is the model of OpenAI"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 16,
+    "username": "Jivraj",
+    "created_at": "2025-01-22T09:13:43.408Z",
+    "cooked": "Hi Nilay,\nYes you would need to use text-embedding-3-small model of openai for embedding questions.\nKind regards\nJivraj"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 17,
+    "username": "nilaychugh",
+    "created_at": "2025-01-23T03:52:39.679Z",
+    "cooked": "i have a doubt, while submitting the GA3, both 7th and 8th questions require the API url to be active and connected right, but its not possible as both the URLs use same port, so if we check my 7th question URL is running right now, it\u2019ll show as correct, but then if i  run 8th question URL, the 7th question will automatically show the error, is there any solution to this problem?"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 18,
+    "username": "21f3002277",
+    "created_at": "2025-01-23T06:09:55.493Z",
+    "cooked": "Q5.  How to handle the error ? sir @Jivraj\nError: The first input does not match the first text exactly"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 19,
+    "username": "21f3002277",
+    "created_at": "2025-01-23T06:17:12.711Z",
+    "cooked": "Q4. How to handle this error? @Jivraj\n{\n  \"id\": \"chatcmpl-AshDCPwSiXNao1QXmCxCmi63GifFx\",\n  \"object\": \"chat.completion\",\n  \"created\": 1737599182,\n  \"model\": \"gpt-4o-mini-2024-07-18\",\n  \"choices\": [\n    {\n      \"index\": 0,\n      \"message\": {\n        \"role\": \"assistant\",\n        \"content\": \"The image contains an email address and a number. The email address appears to be associated with an educational institution, and the number seems to be a numerical sequence.\",\n        \"refusal\": null\n      },\n      \"logprobs\": null,\n      \"finish_reason\": \"stop\"\n    }\n  ],\n  \"usage\": {\n    \"prompt_tokens\": 592,\n    \"completion_tokens\": 33,\n    \"total_tokens\": 625,\n    \"prompt_tokens_details\": {\n      \"cached_tokens\": 0,\n      \"audio_tokens\": 0\n    },\n    \"completion_tokens_details\": {\n      \"reasoning_tokens\": 0,\n      \"audio_tokens\": 0,\n      \"accepted_prediction_tokens\": 0,\n      \"rejected_prediction_tokens\": 0\n    }\n  },\n  \"service_tier\": \"default\",\n  \"system_fingerprint\": \"fp_bd83329f63\",\n  \"monthlyCost\": 0.05490624000000001,\n  \"cost\": 0.001974,\n  \"monthlyRequests\": 14,\n  \"costError\": \"crypto.createHash is not a function\"\n}\n\nError: Model must be gpt-4o-mini"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 20,
+    "username": "Jivraj",
+    "created_at": "2025-01-23T10:58:14.611Z",
+    "cooked": "Hi Nilay,\n\n\n\n nilaychugh:\n\nboth the URLs use same port,\n\n\nYou can run two servers on different port numbers."
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 21,
+    "username": "Jivraj",
+    "created_at": "2025-01-23T11:05:13.578Z",
+    "cooked": "Hi Vikash,\nI looked at your answers in backend. In answer you submitted response from openai, but you need to submit json object which is required for sending a request to LLM.\nKind regards"
+  },
+  {
+    "topic_title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+    "post_number": 22,
+    "username": "Jivraj",
+    "created_at": "2025-01-23T11:07:22.861Z",
+    "cooked": "You made same mistake here, instead of response use json body that\u2019s required for sending request to LLM.\nKind regards"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 1,
+    "username": "23f3002530",
+    "created_at": "2025-02-03T06:54:27.787Z",
+    "cooked": "@carlton @s.anand\ndear sir\ni have taken tds in this term. after the first assignment there was no checkbox provided to any graded assignment .for this reason i just saved the assignment at the portal link .and now after the deadline its showing my assignment had not been submitted. pls do something please do it fast."
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 4,
+    "username": "Saransh_Saini",
+    "created_at": "2025-02-03T10:42:34.471Z",
+    "cooked": "\n\n\n\nGA2 - Deployment Tools - Discussion Thread [TDS Jan 2025] Tools in Data Science\n\n\n    We have removed that button, cause it was causing confusion among the students. \nIf you have saved your answers on the TDS portal then you need not worry, you will be marked. The button was just there to ensure you saw the assignment on the TDS portal. \nRegards, \nTDS TA\n  \n\nRead this"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 5,
+    "username": "Rishabh2",
+    "created_at": "2025-02-05T17:17:25.350Z",
+    "cooked": "I saved that too but right now scores of GA2 isn\u2019t visible for me. And in score section it\u2019s showing assignment not submitted. @Saransh_Saini"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 6,
+    "username": "carlton",
+    "created_at": "2025-02-06T02:24:28.000Z",
+    "cooked": "Your scores are evaluated on a site that is external to the seek portal and is not integrated with the seek portal. Therefore seek does not know if you have submitted or not and by default says that it has not been submitted because it cannot see your external evaluation. There will not be a fix for this for some time.\nScores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal.\nThe scores will only be visible in the dashboard. Just ignore anything inside seek portal. The dashboard is where all your subject score cards exists.\nAs stated in multiple places on discourse as well as in live sessions, The final score is always your last submission. If your dashboard score does not match your final submission score on the assignment page, only then contact us regarding your marks.\nKind regards"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 7,
+    "username": "23f3002530",
+    "created_at": "2025-02-03T05:35:17.285Z",
+    "cooked": "@Jivraj @iamprasna  i have taken tds in this term. after the first assignment there was no checkbox provided to any graded assignment .for this reason i just saved the assignment at the portal link .and now after the deadline its showing my assignment  had not been submitted. pls do something please do it fast."
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 10,
+    "username": "shriaviator",
+    "created_at": "2025-02-07T02:08:32.080Z",
+    "cooked": "@23f3002530\nTopic moved to the appropriate category in order to get faster responses.\nPlease make it easier for others to help you, by ensuring that topics are created in the correct categories."
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 11,
+    "username": "carlton",
+    "created_at": "2025-02-07T03:17:32.740Z",
+    "cooked": "@23f3002530\nPlease refer to this post.\n\n\n\n\nTds: assignment is not submitting Tools in Data Science\n\n\n    Your scores are evaluated on a site that is external to the seek portal and is not integrated with the seek portal. Therefore seek does not know if you have submitted or not and by default says that it has not been submitted because it cannot see your external evaluation. There will not be a fix for this for some time. \nScores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal. \nThe scores will only be visible in the dashboard. Just ignore anything inside se\u2026\n  \n\nKind regards"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 12,
+    "username": "bhavanagv",
+    "created_at": "2025-02-06T20:28:05.908Z",
+    "cooked": "Screenshot (313)1920\u00d71080 243 KB"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 13,
+    "username": "carlton",
+    "created_at": "2025-02-07T00:46:09.257Z",
+    "cooked": "Dear Bhavanagv,\nThe scores have not been pushed to the dashboard yet. Ignore seek portal. Seek portal will not have your submission or your scores because it is evaluated externally from the seek portal.\nKind regards"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 14,
+    "username": "22f3000585",
+    "created_at": "2025-02-03T12:50:07.690Z",
+    "cooked": "I had submitted the assignment still it\u2019s shwoing that my score is 0 and that i have not submitted the assignment.\nCan you please look into it as i had saved my answers as well timely.\nimage547\u00d7258 12.3 KB"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 15,
+    "username": "Pururaj",
+    "created_at": "2025-02-03T18:47:17.785Z",
+    "cooked": "same thing with my assignment even though i submitted it"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 16,
+    "username": "Jivraj",
+    "created_at": "2025-02-03T22:46:28.017Z",
+    "cooked": "Scores will soon be pushed to seek portal, till then it will show 0."
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 17,
+    "username": "HRISHIKESH",
+    "created_at": "2025-02-04T15:23:50.195Z",
+    "cooked": "Same for me\u2026deadline is over and assignment not submitted\u2026"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 18,
+    "username": "23f2003413",
+    "created_at": "2025-02-05T06:58:39.938Z",
+    "cooked": "same issue here as well"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 19,
+    "username": "SameerNaik",
+    "created_at": "2025-02-05T18:37:49.504Z",
+    "cooked": "Yes, same observation for my assignment as well."
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 20,
+    "username": "carlton",
+    "created_at": "2025-02-06T02:23:54.000Z",
+    "cooked": "Scores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal.\nThe scores will only be visible in the dashboard. Just ignore anything inside the seek portal.\nAs stated in multiple places in discourse as well as in live sessions, The final score is always your last submission.\nKind regards"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 21,
+    "username": "23f2000232",
+    "created_at": "2025-02-07T14:50:45.736Z",
+    "cooked": "There are some errors in grading for GA2 and  GA3 for TDS, even after submitting the assignments score 0 was given and the seek portal displayed assignment was not submitted given that the login was from my own account and was submitted before the time and still got a score of 0.\nScreenshot 2025-02-07 2013161859\u00d7960 88.4 KB\nand the same happened for the 3rd assignment"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 22,
+    "username": "carlton",
+    "created_at": "2025-02-07T15:07:24.073Z",
+    "cooked": "Please refer to this post.\n\n\n\n\nTds: assignment is not submitting Tools in Data Science\n\n\n    Scores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal. \nThe scores will only be visible in the dashboard. Just ignore anything inside the seek portal. \nAs stated in multiple places in discourse as well as in live sessions, The final score is always your last submission. \nKind regards\n  \n\n"
+  },
+  {
+    "topic_title": "Tds: assignment is not submitting",
+    "post_number": 23,
+    "username": "Dnyanu27",
+    "created_at": "2025-02-08T12:32:16.079Z",
+    "cooked": "Only 1st Graded assignment scores are visible on dashboard.  I have submitted 2nd and 3rd GA before the deadline but still it showing \u201cnot submitted\u201d on the seek portal\u2026"
+  }
+]
