@@ -39,7 +39,16 @@ async def forward_to_ask(request: Request):
 @app.post("/ask")
 def ask_question(payload: QuestionRequest):
     answer, sources = generate_answer(payload.question)
+
+    links = []
+    for s in sources:
+        links.append({
+            "url": s["url"],
+            "text": f"{s['title']} ({s['source']})"
+        })
+
     return {
         "answer": answer,
-        "sources": sources
+        "links": links
     }
+
