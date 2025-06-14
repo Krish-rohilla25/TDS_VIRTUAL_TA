@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from fastapi import Request
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 from app.utils.answer_generator import generate_answer
@@ -26,6 +27,11 @@ def ping():
 @app.get("/")
 def home():
     return {"message": "Welcome to the TDS Virtual TA API. Use POST /ask to ask questions."}
+
+@app.post("/")
+async def forward_to_ask(request: Request):
+    body = await request.json()
+    return await answer_question(body)
 
 @app.post("/ask")
 def ask_question(payload: QuestionRequest):
