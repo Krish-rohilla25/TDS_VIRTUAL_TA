@@ -31,7 +31,10 @@ def home():
 @app.post("/")
 async def forward_to_ask(request: Request):
     body = await request.json()
-    return await answer_question(body)
+    question = body.get("question", "")
+    payload = QuestionRequest(question=question)
+    return ask_question(payload)
+
 
 @app.post("/ask")
 def ask_question(payload: QuestionRequest):
